@@ -5,3 +5,4 @@ Arduino Projects
 
 1. lcd_display
 2. ultrasonic_sensor
+3. counter
