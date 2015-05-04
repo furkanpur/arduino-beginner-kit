@@ -7,11 +7,11 @@
  *    Sezai Furkan Pur & Mustafa Ozcan
  */
 
-MALZEMELER								ADET
------------------------------------		------
-1. Micro Servo SG90						2 Adet
-2. Arduino MEGA							1 Adet
-3. Joystick								1 Adet
+MALZEMELER                              ADET
+-----------------------------------     ------
+1. Micro Servo SG90                     2 Adet
+2. Arduino MEGA                         1 Adet
+3. Joystick                             1 Adet
 
 
 KURULUM
@@ -27,9 +27,9 @@ KURULUM
     Kahverengi 	> 	Ground(GND)
 
 3. Joystick
-	+5V			>	VCC(5V)
-	Ground		>	Ground(GND)
-	VRx			>	A0
-	VRy			>	A1
+	+5V         >	VCC(5V)
+	Ground      >	Ground(GND)
+	VRx         >	A0
+	VRy         >	A1
 
 NOT: Sablonumuzun son hali Fritzing Projesi olarak ektedir.

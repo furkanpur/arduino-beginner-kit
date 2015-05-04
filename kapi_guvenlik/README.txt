@@ -7,13 +7,13 @@
  *    Sezai Furkan Pur & Mustafa Ozcan
  */
 
-MALZEMELER								ADET
------------------------------------		------
-1. 16x2 LCD Display + I2C Converter		1 Adet
-2. Buzzer								1 Adet
-3. LED									2 Adet
-4. Arduino Uno R3						1 Adet
-5. RFID Modulu							1 Adet
+MALZEMELER                              ADET
+-----------------------------------     ------
+1. 16x2 LCD Display + I2C Converter     1 Adet
+2. Buzzer                               1 Adet
+3. LED                                  2 Adet
+4. Arduino Uno R3                       1 Adet
+5. RFID Modulu                          1 Adet
 
 KURULUM
 ----------------------------------------------
@@ -28,7 +28,7 @@ KURULUM
 
 2. 16x2 LCD Display Modulunde I2C Converter'i vardir. Converter'in baglanti pinleri su sekildedir:
 	VCC		>	5 V 
-	Ground	>	Ground
+	Ground  >	Ground
 	SDA		>	A4
 	SCL		>	A5
 
