@@ -7,14 +7,14 @@
  *    Feyza Altunsoy & Merve Poyrazoglu
  */
 
- MALZEMELER					 			ADET
- ----------------------------------		------
-1. HC-SR04 ultrasonic sensor			1 adet
-2. Bread Board							1 adet
-3. Arduino Uno R3						1 adet
+ MALZEMELER                             ADET
+ ----------------------------------     ------
+1. HC-SR04 ultrasonic sensor            1 adet
+2. Bread Board                          1 adet
+3. Arduino Uno R3                       1 adet
 4. Kablolar
-5. Buzzer								1 adet
-6. LED									2 adet
+5. Buzzer                               1 adet
+6. LED                                  2 adet
 
  KURULUM 
  ----------------------------------

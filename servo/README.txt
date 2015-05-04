@@ -27,9 +27,9 @@ KURULUM
     Kahverengi 	> 	Ground(GND)
 
 3. Joystick
-	+5V         >	VCC(5V)
-	Ground      >	Ground(GND)
-	VRx         >	A0
-	VRy         >	A1
+    +5V         >	VCC(5V)
+    Ground      >	Ground(GND)
+    VRx         >	A0
+    VRy         >	A1
 
 NOT: Sablonumuzun son hali Fritzing Projesi olarak ektedir.
