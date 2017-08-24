@@ -1,5 +1,5 @@
 # Simple Arduino Projects
-This project includes some Arduino project for beginners and you can find about how can be used the basic Arduino electronics. 
+This project includes some Arduino project for beginners and you can find about how basic Arduino electronics can be used.
 
 ## Requirements
 Requirements and instructions are included following projects.
@@ -8,7 +8,7 @@ Requirements and instructions are included following projects.
 2. Ultrasonic Sensor **(ultrasonic_sensor)**
 3. Counter **(counter)**
 4. Servo Motor **(servo)**
-5. Door Safety **(kapi_guvenlik)**
+5. Door Safety **(door_safety)**
 
 ## Usage
 Before using the project, you need to connect wires successfully as described on doc.
