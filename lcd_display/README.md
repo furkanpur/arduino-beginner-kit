@@ -9,8 +9,9 @@
 | Arduino Uno  | 1  |
 | Wires  |   |
 
-### Set Up
+## Set Up
 1. I2C Converter Module Connection
+    
     | Pin Name | Pin Number |
     |---|:-:|
     | VCC      |    3.3 V |

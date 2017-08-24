@@ -11,9 +11,10 @@
 | RFID Modulu  |  1 |
 | LED |  2 |
 
-### Set Up
+## Set Up
 
 1. RFID-RC522 Module Connection
+    
     | Pin Name | Pin Number |
     |---|:-:|
     | Reset    |     Pin 5 |
@@ -25,6 +26,7 @@
     | 3.3 V    |     3.3 V|
 
 2. I2C Converter Module Connection
+    
     | Pin Name | Pin Number |
     |---|:-:|
     | VCC      |    5 V |
@@ -35,12 +37,14 @@
     P.S. : 16x2 LCD Display module has a I2C converter. 
 
 3. Buzzer Connection
+    
     | Pin Name | Pin Number |
     |---|:-:|
     | +        |    Pin 2|
     | -        |    Ground|
 
 4. LED Connection
+    
     | Pin Name | Pin Number |
     |---|:-:|
     | +        |    Pin 3|

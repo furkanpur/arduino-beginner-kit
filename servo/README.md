@@ -9,7 +9,7 @@
 | Joystick | 1 |
 | Wires | |
 
-### Set Up
+## Set Up
 
 1. First Micro Servo Motor SG90 Connection
  

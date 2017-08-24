@@ -12,7 +12,7 @@
 | LED | 2 |
 
 
-### Set Up
+## Set Up
 
 1. HC-SR04 Sensor Connection
  
