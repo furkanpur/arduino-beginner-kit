@@ -14,9 +14,9 @@ Requirements and instructions are included following projects.
 Before using the project, you need to connect wires successfully as described on doc.
 
 ```sh 
-git clone https://github.com/furkanpur/robotic.git
+git clone https://github.com/furkanpur/arduino-beginner-kit.git
 
-cd robotic
+cd arduino-beginner-kit
 ```
 
 Then import project you want to work to Arduino IDE.
